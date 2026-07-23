@@ -1,2 +1,3 @@
 # Space_Clock
-Based on an ESP32-C3 and a round screen GC9A01, the Space Clock project is an NTP-connected clock styled to resemble a space radar. Designed to operate autonomously, it simulates an interplanetary flight control system (ATC) featuring a central spacecraft, planets indicating the hours and minutes, and dynamic astronomical phenomena.
+Built around an ESP32-C3 and a circular GC9A01 display, Space Clock is an autonomous, NTP-connected clock that mimics an interplanetary radar. It brings a space traffic control screen to life with a central spacecraft, planets marking the hours and minutes, and real-time astronomical events.
+Connect the hardware, upload the code, set up Wi-Fi using the embedded Access Point, and explore the stars!omena.
